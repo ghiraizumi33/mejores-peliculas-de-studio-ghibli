@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Uchen&display=swap');
+body	{background-color: rgb(241, 233, 214);
+		margin: 0 px}
+
+.tituloprincipal {background-color:rgb(241, 147, 129);
+				width: 685px;
+				border-radius: 30px;
+			    margin: 0 auto;
+				}
+img{margin-left: 50px}
+h1,h2,h3{font-family: 'Marko One', serif;}
+header {background-image: url("imagen/patronghibli.png");
+		height: 100px;}
+p   {font-family: 'Uchen', serif;
+	font-size: 20px}
+article {margin-inline: 325px;
+		margin-bottom: 50px;
+		position: absolute;}
+.logo {position: absolute;
+		margin: 0 auto;}
+.totoroxd {position: absolute;
+			margin-top: 183px}
+nav 	{float: right;}
+
+.autor {background-color:rgb(160, 202, 200);
+		width: 100px;
+		height: 25px;
+		font-family: 'Marko One', serif;
+		font-size: 15px;
+		border-radius: 30px}
+
+.redes {background-color:rgb(160, 202, 200);
+		width: 100px;
+		height: 25px;
+		font-family: 'Marko One', serif;
+		font-size: 15px;
+		border-radius: 30px}
+
+.musica {background-color:rgb(160, 202, 200);
+		width: 100px;
+		height: 25px;
+		font-family: 'Marko One', serif;
+		font-size: 15px;
+		border-radius: 30px}
+
+aside	{margin: 25px;
+				width: 200px;
+				float: right;
+				}
+aside p{font-size: 15px;
+				font-family: 'Uchen', serif;}
+
+
+
+
+

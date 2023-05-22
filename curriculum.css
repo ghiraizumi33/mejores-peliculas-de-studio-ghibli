@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Uchen&display=swap');
+
+body{background-color: rgb(241, 233, 214);}
+.titulopeli {background-color:rgb(160, 202, 200);
+				width: 500px;
+				border-radius: 30px;
+			    margin: 0 auto;}
+header {background-image: url("imagen/patronghibli.png");
+		height: 100px;
+		font-family: 'Marko One', serif;}
+article {margin-top: 50px;
+		margin-inline: 300px}
+h1,h2 {font-family: 'Marko One', serif;}
+p   {font-family: 'Uchen', serif;
+	font-size: 15px;
+	text-align: left;
+	margin-left: 50px; 
+	margin-right: 20px;}
+
+.informacionpersonal 	{display: inline-block;
+						}
+
+.formacionacademica		{display: inline-block;
+						}
+
+.habilidades			{display: inline-block;
+						}
+
+.interesesygustos		{display: inline-block;
+						}
+
+.fotolol				{display: inline-block;
+						}
+
+.informacion 			{text-align: center;
+	margin-bottom: 50px;
+						}
+
+.trailer {background-color:rgb(241, 147, 129);
+		width: 100px;
+		height: 25px;
+		font-family: 'Marko One', serif;
+		font-size: 15px;
+		border-radius: 30px}
+
+.fotoxd {text-align: center;}
+
+.btn {background-color:rgb(241, 147, 129);
+		width: 100px;
+		height: 25px;
+		font-family: 'Marko One', serif;
+		font-size: 15px;
+		border-radius: 30px;
+		float: right;}
